@@ -6,7 +6,7 @@
 ## Clone Cli Project
 
 ```bash
-$ git clone https://github.com/SbzAhmd/Cryptocurrency-Price-CLI
+$ git clone https://github.com/SbzAhmd/Cryptocurrency-Price-CLI.git
 ```
 
 ## Install Dependencies
