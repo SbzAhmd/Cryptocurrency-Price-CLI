@@ -1,7 +1,6 @@
 # about this project
 
-> A CLI project showing top crypto coins with its highest and lowest price of the day and % changes in 24 hrs, 
-> Also top of the news related to crypto currency.
+> A CLI project showing top crypto coins with its highest and lowest price of the day and % changes in 24 hrs.
 
 
 ## Clone Cli Project
